@@ -120,3 +120,24 @@ ul li a {
     border-radius: 10px;
     text-align: left;
 }
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 70px !important;
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    border-radius: 10px;
+}
+
+footer form input {
+    border: none;
+    outline: none;
+    background-color: white;
+    padding: 8px 15px;
+    padding: 8px 15px;
+    border-radius: 8px;
+    display: block;
+    margin-bottom: 5px;
+}
